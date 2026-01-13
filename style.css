@@ -1,0 +1,13 @@
+body {
+    text-align: center;
+}
+#formBtn {
+    color: white;
+    background-color:coral;
+    border: none;
+    border-radius: 2px;
+    padding: 0.25rem 1rem;
+    margin-top: 1rem;
+    cursor: pointer;
+    font-size: 1rem;
+}
